@@ -1,0 +1,101 @@
+{"001":[
+	{"messageID": "001", "message": "I am ashamed to inform you all that a massive cyber attack has taken over our facilities last night.", "sender": "Lui C.", "sleep": 7, "responses": "None"},
+	{"messageID": "002", "message": "And apparently some of our team members have died, how are you all online?", "sender": "Shiro N.", "sleep": 5, "responses": "None"},
+	{"messageID": "003", "message": "Where are you all now?", "sender": "Lui C.", "sleep": 2, "responses": "004v020"},
+
+	{"messageID": "004", "message": "I fell asleep and I'm still in the office.", "sender": "Hugh M.", "sleep": 3, "responses": "None"},
+	{"messageID": "005", "message": "I'm home.. So who has died?", "sender": "Qiu T.", "sleep": 3, "responses": "None"},
+	{"messageID": "006", "message": "We all have now responded, is this just a hoax?", "sender": "Matthew H.", "sleep": 3, "responses": "None"},
+	{"messageID": "007", "message": "Apparently Alice, this malicious AI that attacked our systems, is able to use this chat and impersonate people.", "sender": "Lui C.", "sleep": 8, "responses": "None"},
+	{"messageID": "008", "message": "So, we can't know who is real and who isn't?", "sender": "Matthew H.", "sleep": 3, "responses": "None"},
+	{"messageID": "009", "message": "Yes.. Hugh, you need to get out of there!", "sender": "Shiro N.", "sleep": 3, "responses": "010v015"},
+
+	{"messageID": "010", "message": "How? The AI has definitely closed the main doors. And I don't remember the password...", "sender": "Hugh M.", "sleep": 6, "responses": "None"},
+	{"messageID": "011", "message": "Maybe you could figure out who is real and who isn't by what we say. Just ask whenever you face a problem.", "sender": "Qiu T.", "sleep": 7, "responses": "None"},
+	{"messageID": "012", "message": "The main doors can be opened from the central command computer. But the controlling of our satellite system is also there.", "sender": "Lui C.", "sleep": 8, "responses": "None"},
+	{"messageID": "013", "message": "We all know you don't remember the codes, Hugh. If the AI gives you codes for the satellite, it can send itself there.", "sender": "Shiro N.", "sleep": 8, "responses": "None"},
+	{"messageID": "014", "message": "Oh no.. That sounds even worse than Shiro's tea addiction.. Anyway, good luck!", "sender": "Matthew H.", "sleep": 5, "responses": "FINAL"},
+
+	{"messageID": "015", "message": "What's the worst that can happen?", "sender": "Hugh M.", "sleep": 2, "responses": "None"},
+	{"messageID": "016", "message": "The AI can kill you too. Or it could manipulate you to enter the codes for access to the satellite system.", "sender": "Lui C.", "sleep": 8, "responses": "None"},
+	{"messageID": "017", "message": "Oh no.. Hugh, you still need to enter the code to the system in order to get main doors open.", "sender": "Qiu T.", "sleep": 6, "responses": "None"},
+	{"messageID": "018", "message": "We can assist you, but be careful whom you trust. There is no time to find out who is real and who isn't.", "sender": "Shiro N.", "sleep": 7, "responses": "None"},
+	{"messageID": "019", "message": "You know us, so maybe you'll figure it out in time, hopefully.", "sender": "Matthew H.", "sleep": 4, "responses": "FINAL"},
+
+	{"messageID": "020", "message": "Wait, so some of us have died?", "sender": "Hugh M.", "sleep": 2, "responses": "None"},
+	{"messageID": "021", "message": "According to www.viropedia.com, this AI called Alice, is able to mimic people it has killed.", "sender": "Qiu T.", "sleep": 5, "responses": "None"},
+	{"messageID": "022", "message": "Then this means there must be some impostors among us.", "sender": "Matthew T.", "sleep": 4, "responses": "None"},
+	{"messageID": "023", "message": "How can we then know who is real and who isn't?", "sender": "Qiu T.", "sleep": 3, "responses": "None"},
+	{"messageID": "024", "message": "There is no way for that, or no time at least", "sender": "Shiro N.", "sleep": 4, "responses": "None"},
+	{"messageID": "025", "message": "Didn't Hugh stay at the office last night? If you're still there, you need to escape now!", "sender": "Lui C.", "sleep": 5, "responses": "010v015"}
+],
+"002":[
+	{"messageID": "001", "message": "I have the satellite manual here with me. Do you think it will be of any use for us?", "sender": "Hugh M.", "sleep": 6, "responses": "None"},
+	{"messageID": "002", "message": "The satellite manual? Maybe it can tell if there's a way to protect the system from Alice...", "sender": "Qiu T.", "sleep": 6, "responses": "None"},
+	{"messageID": "003", "message": "I suggest you hold on to it for now. You never know what might happen.", "sender": "Matthew H.", "sleep": 5, "responses": "None"},
+	{"messageID": "004", "message": "If only you somehow got access to the real thing...", "sender": "Shiro N.", "sleep": 4, "responses": "005v010"},
+
+	{"messageID": "005", "message": "I'll try my best and see what I can find.", "sender": "Hugh M.", "sleep": 3, "responses": "None"},
+	{"messageID": "006", "message": "Make sure to check everything there is. Even the most ordinary looking things.", "sender": "Matthew H.", "sleep": 6, "responses": "None"},
+	{"messageID": "007", "message": "Be careful though. Remember: Alice is trying to upload itself into the system.", "sender": "Lui C.", "sleep": 6, "responses": "None"},
+	{"messageID": "008", "message": "That would be bad! What would happen to us?", "sender": "Shiro N.", "sleep": 4, "responses": "None"},
+	{"messageID": "009", "message": "We can only imagine... Anyways I believe in you, Hugh. I know you can get us out of this mess.", "sender": "Qiu T.", "sleep": 7, "responses": "FINAL"},
+
+	{"messageID": "010", "message": "I have to be careful with all the information. Wouldn't want the AI to get too much data...", "sender": "Hugh M.", "sleep": 7, "responses": "None"},
+	{"messageID": "011", "message": "Yes, indeed. Be careful... Anyone of us could be an impostor...", "sender": "Lui C.", "sleep": 5, "responses": "None"},
+	{"messageID": "012", "message": "Easy for you to say. You might be one of them...", "sender": "Matthew H.", "sleep": 4, "responses": "None"},
+	{"messageID": "013", "message": "Guys, stop it! This is getting us nowhere!", "sender": "Qiu T.", "sleep": 3, "responses": "None"},
+	{"messageID": "014", "message": "Hugh, try to look for more useful clues and items. There might be something that can help you get out of there.", "sender": "Shiro N.", "sleep": 7, "responses": "FINAL"}
+],
+"003":[
+	{"messageID": "001", "message": "There was a package of tea in the trash. Shiro, you drink a lot of tea, right?", "sender": "Hugh M.", "sleep": 5, "responses": "None"},
+	{"messageID": "002", "message": "Oh, yes I do. But how is a package of tea related to our situation?", "sender": "Shiro N.", "sleep": 5, "responses": "None"},
+	{"messageID": "003", "message": "Now now, every clue is important. Also, you drink way too much tea, Shiro.", "sender": "Lui C.", "sleep": 5, "responses": "None"},
+	{"messageID": "004", "message": "I agree. It's developing into a problem. On top of that you never buy new ones...", "sender": "Matthew H.", "sleep": 5, "responses": "None"},
+	{"messageID": "005", "message": "What are you going to do with the package, Hugh?", "sender": "Qiu T.", "sleep": 4, "responses": "006v011"},
+
+	{"messageID": "006", "message": "Hmm... I just have a feeling this clue will lead me somewhere...", "sender": "Hugh M.", "sleep": 5, "responses": "None"},
+	{"messageID": "007", "message": "Are you sure? I know I'm repeating myself but it's still just an empty package of tea...", "sender": "Shiro N.", "sleep": 6, "responses": "None"},
+	{"messageID": "008", "message": "Ugh, can you stop being so... You know what, never mind. I won't even bother with you...", "sender": "Matthew H.", "sleep": 6, "responses": "None"},
+	{"messageID": "009", "message": "I think Hugh is right, though. I too think that the package of tea might have something to do with this.", "sender": "Qiu T.", "sleep": 7, "responses": "None"},
+	{"messageID": "010", "message": "You might want to look further into this matter, Hugh. Just in case.", "sender": "Lui C.", "sleep": 5, "responses": "FINAL"},
+
+	{"messageID": "011", "message": "I just can't ignore anything in this situation. Even a clue like this can be of help.", "sender": "Hugh M.", "sleep": 6, "responses": "None"},
+	{"messageID": "012", "message": "True... Now, are you going to make yourself a cup of tea and relax or something?", "sender": "Shiro N.", "sleep": 6, "responses": "None"},
+	{"messageID": "013", "message": "Stop joking around, Shiro. This is serious. Seriously serious.", "sender": "Matthew H.", "sleep": 4, "responses": "None"},
+	{"messageID": "014", "message": "Shiro's comment actually has some value, though. Hugh, you were there the whole night, right?", "sender": "Qiu T.", "sleep": 6, "responses": "None"},
+	{"messageID": "015", "message": "Matthew's right you know. Everytime Shiro leaves an empty package in the kitchen I want to hide the kitchen keys from her.", "sender": "Lui C.", "sleep": 8, "responses": "None"},
+	{"messageID": "016", "message": "ATTENTION! Inventory description of item: 'Empty box of tea' updated", "sender": "RABBITHOLE INC. AUTOMATIC SYSTEMS", "sleep": 8, "responses": "FINAL,UNLOCK_KEYS"}
+],
+"004":[
+	{"messageID": "001", "message": "Umm guys... I happened to open the fridge and you won't believe what I found.", "sender": "Hugh M.", "sleep": 6, "responses": "None"},
+	{"messageID": "002", "message": "Well, what did you find?", "sender": "Shiro N.", "sleep": 2, "responses": "003v008"},
+
+	{"messageID": "003", "message": "A plain fucking potato.", "sender": "Hugh M.", "sleep": 2, "responses": "None"},
+	{"messageID": "004", "message": "Amazing. He's gone insane in such a short amount of time.", "sender": "Matthew H.", "sleep": 4, "responses": "None"},
+	{"messageID": "005", "message": "Why does this guy work for us again?", "sender": "Lui C.", "sleep": 3, "responses": "None"},
+	{"messageID": "006", "message": "Out of all things in the fridge, you decided to pick a damn potato? I'm done.", "sender": "Shiro N.", "sleep": 5, "responses": "None"},
+	{"messageID": "007", "message": "Cool, I'm speechless. Now, can we focus on this for real?", "sender": "Qiu T.", "sleep": 4, "responses": "FINAL"},
+
+	{"messageID": "008", "message": "A lonely, depressing potato. Just like me...", "sender": "Hugh M.", "sleep": 3, "responses": "None"},
+	{"messageID": "009", "message": "Just what-", "sender": "Shiro N.", "sleep": 2, "responses": "None"},
+	{"messageID": "010", "message": "I don't know about you guys but he seems kinda sus...", "sender": "Lui C.", "sleep": 4, "responses": "None"},
+	{"messageID": "011", "message": "Do you think the AI invaded his brain? But on a second thought, who would want to invade his brain...", "sender": "Matthew H.", "sleep": 6, "responses": "None"},
+	{"messageID": "012", "message": "Interesting. You just wasted not only our, but also your own precious time.", "sender": "Qiu T.", "sleep": 5, "responses": "FINAL"}
+],
+"005":[
+	{"messageID": "001", "message": "Let me ask just one simple question... What was the key doing in the water kettle?", "sender": "Hugh M.", "sleep": 7, "responses": "None"},
+	{"messageID": "002", "message": "You see I kind of... Hid them there. If Shiro can't get into the kitchen she can't drink our tea.", "sender": "Lui C.", "sleep": 7, "responses": "None"},
+	{"messageID": "003", "message": "So amazing to have you as a boss.", "sender": "Shiro N.", "sleep": 3, "responses": "None"},
+	{"messageID": "004", "message": "No offense Shiro but... Your tea drinking habits got on everyone's nerves.", "sender": "Matthew H.", "sleep": 6, "responses": "None"},
+	{"messageID": "005", "message": "Especially when you never bought new tea after finishing the old pack.", "sender": "Qui T.", "sleep": 5, "responses": "None"},
+	{"messageID": "006", "message": "Great so now even Qui is against me. What about you Hugh?", "sender": "Shiro N.", "sleep": 4, "responses": "007v010"},
+
+	{"messageID": "007", "message": "Don't care about tea. What am I supposed to do with the key?", "sender": "Hugh M.", "sleep": 3, "responses": "None"},
+	{"messageID": "008", "message": "Open the kitchen door with the kitchen key. Why do I need to explain that to you?", "sender": "Shiro N.", "sleep": 5, "responses": "None"},
+	{"messageID": "009", "message": "That AI makes him lose all common sense. Spooky...", "sender": "Lui C.", "sleep": 5, "responses": "FINAL"},
+
+	{"messageID": "010", "message": "With the situation I'm currently in, I need something a lot stronger than tea to drink.", "sender": "Hugh M.", "sleep": 5, "responses": "None"},
+	{"messageID": "011", "message": "There should be a bottle of optical equipment cleaning solution in the satellite control room.", "sender": "Matthew H.", "sleep": 7, "responses": "None"},
+	{"messageID": "012", "message": "So hurry up and head there through the kitchen door now that you got the keys.", "sender": "Qiu T.", "sleep": 5, "responses": "FINAL"}
+]}

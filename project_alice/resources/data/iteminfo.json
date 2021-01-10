@@ -1,0 +1,44 @@
+{
+	"items": [
+		{
+			"id" : "manual",
+			"pictureID" : "insertIDHere",
+			"descriptionLine1" : "Each line in the inventory description should have a maximum of 115 characters Each line in the inventory descripti",
+			"descriptionLine2" : "Each line in the inventory description should have a maximum of 115 characters Each line in the inventory descripti",
+			"descriptionLine3" : "Each line in the inventory description should have a maximum of 115 characters Each line in the inventory descripti",
+			"updateDescript1" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha",
+			"updateDescript2" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha",
+			"updateDescript3" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha"
+		},
+		{
+			"id" : "tea",
+			"pictureID" : "insertIDHere",
+			"descriptionLine1" : "Each line in the inventory description should have a maximum of 115 characters Each line in the inventory descripti",
+			"descriptionLine2" : "Each line in the inventory description should have a maximum of 115 characters Each line in the inventory descripti",
+			"descriptionLine3" : "Each line in the inventory description should have a maximum of 115 characters Each line in the inventory descripti",
+			"updateDescript1" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha",
+			"updateDescript2" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha",
+			"updateDescript3" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha"
+		},
+		{
+			"id" : "potato",
+			"pictureID" : "insertIDHere",
+			"descriptionLine1" : "Each line in the inventory description should have a maximum of 115 characters Each line in the inventory descripti",
+			"descriptionLine2" : "Each line in the inventory description should have a maximum of 115 characters Each line in the inventory descripti",
+			"descriptionLine3" : "Each line in the inventory description should have a maximum of 115 characters Each line in the inventory descripti",
+			"updateDescript1" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha",
+			"updateDescript2" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha",
+			"updateDescript3" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha"
+		},
+		{
+			"id" : "keys",
+			"pictureID" : "insertIDHere",
+			"descriptionLine1" : "Each line in the inventory description should have a maximum of 115 characters Each line in the inventory descripti",
+			"descriptionLine2" : "Each line in the inventory description should have a maximum of 115 characters Each line in the inventory descripti",
+			"descriptionLine3" : "Each line in the inventory description should have a maximum of 115 characters Each line in the inventory descripti",
+			"updateDescript1" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha",
+			"updateDescript2" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha",
+			"updateDescript3" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha"
+		}
+	]
+}

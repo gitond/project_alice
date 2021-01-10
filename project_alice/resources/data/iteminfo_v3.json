@@ -1,0 +1,59 @@
+{
+	"002manual": {
+		"id" : "Satellite Manual",
+		"pictureID" : "manIcon,bigMan",
+		"descriptionLine1" : "The documentation for the Wonderland Satellite system.",
+		"descriptionLine2" : "Might come in handy when protecting the system from Alice.",
+		"descriptionLine3" : "Just be sure to keep it on hand and ready!",
+		"updateDescript1" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha",
+		"updateDescript2" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha",
+		"updateDescript3" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha",
+		"roomid" : "00n",
+		"object" : "bookshelf",
+		"ogSkin" : "bookshelf",
+		"skin": "noManShelf"
+
+	},
+	"003tea" : {
+		"id" : "Empty box of tea",
+		"pictureID" : "teaBox,teaFrog",
+		"descriptionLine1" : "When you find the last packet of tea thrown out in the trash",
+		"descriptionLine2" : "with no replacement packet visible in the kitchen, nobody is",
+		"descriptionLine3" : "able to make tea now. But that's none of your business.",
+		"updateDescript1" : "The last packet of tea. Found in the trash can. Placed there",
+		"updateDescript2" : "by Shiro. People seem mad at her for drinking all the tea",
+		"updateDescript3" : "all the time. Lui even threatened to hide the keys from her.",
+		"roomid" : "10w",
+		"object" : "trashCan",
+		"ogSkin" : "trashCanT",
+		"skin": "trashCanNoT"
+	},
+	"004potato" : {
+		"id" : "Potato",
+		"pictureID" : "potatIcon,phoTato",
+		"descriptionLine1" : "Of all the items in the fridge, one particular item strikes",
+		"descriptionLine2" : "you as odd. You wonder to yourself: Who would ever keep a",
+		"descriptionLine3" : "potato in the company fridge? Must be a real potato man.",
+		"updateDescript1" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha",
+		"updateDescript2" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha",
+		"updateDescript3" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha",
+		"roomid" : "10w",
+		"object" : "fridge",
+		"ogSkin" : "fridge",
+		"skin": "fridgeNoWeb"
+	},
+	"005keys" : {
+		"id" : "Keys",
+		"pictureID" : "smallKeys,bigKeys",
+		"descriptionLine1" : "One of these keys is supposedly the kitchen key. Might be",
+		"descriptionLine2" : "used to get out of this place. One thing keeps you wondering",
+		"descriptionLine3" : "however. What were they doing in the tea kettle?",
+		"updateDescript1" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha",
+		"updateDescript2" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha",
+		"updateDescript3" : "These should be used if we want to change the inventory description mid game These should be used if we want to cha",
+		"roomid" : "10w",
+		"object" : "teaKettle",
+		"ogSkin" : "kettle",
+		"skin": "kettleWhite"
+	}
+}

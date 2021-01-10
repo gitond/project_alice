@@ -1,0 +1,36 @@
+{
+	"objects" : {
+		"monitor" : {
+			"background": ["screen_bg", [0,0]],
+			"button1": ["button", [80, 550]],
+			"button2": ["button", [80, 610]]
+		},
+		"00n" : {
+			"background": ["room00n", [0,0]],
+			"bookshelf": ["bookshelf", [850,0]],
+			"computer": ["computer", [390,265]],
+			"inventory": ["inventory", [30,30]],
+			"sIcon": ["savIcon", [30, 120]],
+			"lIcon": ["lodIcon", [30, 210]],
+			"downA": ["aDown", [30, 300]]
+		},
+		"iScreen" : {
+			"background": ["ibg", [0,0]],
+			"x": ["x", [1110, 70]]
+		},
+		"10w" : {
+			"background": ["kbg", [0,0]],
+			"teaKettle": ["kettle", [1125, 380]],
+			"trashCan": ["trashCanT", [910, 530]],
+			"fridge": ["fridge", [830,20]],
+			"arrow": ["arrow", [50,50]],
+			"door": ["door", [15,150]],
+			"inventory": ["inventory", [150,40]],
+			"sIcon": ["savIcon", [250,40]],
+			"lIcon": ["lodIcon", [350,40]]
+		},
+		"ending" : {
+			"background": ["ending", [0,0]]
+		}
+	}
+}
